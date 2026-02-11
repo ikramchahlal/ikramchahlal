@@ -2,55 +2,62 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b76117z6v6zjivgj4qcj5t7zg3sct3vslr3kjf0l7s1wz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-## 🎓 Élève-ingénieure en Génie Informatique (Option IA)
+## 🎓 Élève-ingénieure en 4ème année | Génie Informatique, Option IA
 ### ENSAO - École Nationale des Sciences Appliquées d'Oujda
-
----
-
-✨ **Ce que je fais** :
-
-🔭 Je travaille actuellement sur des projets de **Computer Vision** et **Machine Learning**  
-🌱 J'approfondis mes connaissances en **Deep Learning** et **Traitement d'images**  
-👯 Je cherche à collaborer sur des projets innovants en IA  
-💬 Demande-moi des choses sur **Python, TensorFlow, OpenCV**  
-⚡ Fun fact : Je transforme le café en code ☕💻
-
----
-
-## 🚀 L'effet cinématique
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=4%C3%A8me+ann%C3%A9e+G%C3%A9nie+Informatique;Option+Intelligence+Artificielle;Passionn%C3%A9e+par+la+Vision+par+Ordinateur;Future+Ing%C3%A9nieure+IA;ENS+Appliqu%C3%A9es+Oujda" 
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Audacieuse+et+passionn%C3%A9e+par+l'IA;Stage+PFA+de+2+mois+%C3%A0+partir+du+05+juillet+2026;Machine+Learning+%7C+Computer+Vision;D%C3%A9veloppement+Web+%7C+Applications+Desktop" 
         alt="Typing SVG" />
     </a>
 </p>
 
 ---
 
-## 🛠️ Technologies & Outils
+## 💫 À propos de moi
 
+Audacieuse – je vois dans chaque ligne de code une opportunité d'innovation et dans chaque défi technique une chance de progresser. Élève-ingénieure à l'ENSAO, je ne me contente pas d'apprendre la technologie ; je cherche à la comprendre, la modeler et l'utiliser pour concevoir des solutions pertinentes. Curieuse, rigoureuse et passionnée, je recherche un **stage PFA de 2 mois, à partir du 05 juillet 2026**, où appliquer mes connaissances tout en apportant ma créativité et mon envie d'entreprendre.
+
+---
+
+## 🛠️ Compétences Techniques
+
+### Langages de Programmation
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembler](https://img.shields.io/badge/Assembler-654FF0?style=for-the-badge&logo=assembler&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### Développement Web & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+
+### Bases de Données
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Technologies
+![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### Intelligence Artificielle & Data
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Traitement d'Image](https://img.shields.io/badge/Traitement_d'Image-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Conception & Réseaux
+![UML](https://img.shields.io/badge/UML-AB2B28?style=for-the-badge&logo=uml&logoColor=white)
+![Réseaux](https://img.shields.io/badge/R%C3%A9seaux-1F72B4?style=for-the-badge&logo=cisco&logoColor=white)
+![Structures de Données](https://img.shields.io/badge/Structures_de_Donn%C3%A9es-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📈 Mes statistiques GitHub
+## 🤝 Compétences Comportementales
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TON_NOM_D_UTILISATEUR&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_D_UTILISATEUR&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikram-chahlal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
