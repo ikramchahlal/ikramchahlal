@@ -1,6 +1,5 @@
 # 👋 Bonjour, je suis Ikram Chahlal
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif">
 
 ## 🎓 Élève-ingénieure en 4ème année | Génie Informatique, Option IA
 ### ENSAO - École Nationale des Sciences Appliquées d'Oujda
