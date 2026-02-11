@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Ikram Chahlal
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b76117z6v6zjivgj4qcj5t7zg3sct3vslr3kjf0l7s1wz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611l3owvzn4v6rlgpyz7r79dsvl2crzpg7av5zu2vwl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ## 🎓 Élève-ingénieure en 4ème année | Génie Informatique, Option IA
 ### ENSAO - École Nationale des Sciences Appliquées d'Oujda
@@ -60,4 +60,3 @@ Audacieuse – je vois dans chaque ligne de code une opportunité d'innovation e
 ---
 
 ## 🤝 Compétences Comportementales
-
