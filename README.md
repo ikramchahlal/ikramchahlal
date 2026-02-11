@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Audacieuse+et+passionn%C3%A9e+par+l'IA;Stage+PFA+de+2+mois+%C3%A0+partir+du+05+juillet+2026;Machine+Learning+%7C+Computer+Vision;D%C3%A9veloppement+Web+%7C+Applications+Desktop" 
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Audacieuse+et+passionn%C3%A9e+par+l'IA;A+la+recherche+d'un+stage+PFA+de+2+mois+%C3%A0+partir+du+05+juillet+2026;🚀+Prête+à+évoluer" 
         alt="Typing SVG" />
     </a>
 </p>
@@ -43,7 +43,7 @@ Audacieuse – je vois dans chaque ligne de code une opportunité d'innovation e
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ### Frameworks & Technologies
 ![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
