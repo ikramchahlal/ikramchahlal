@@ -41,7 +41,7 @@ Audacieuse – je vois dans chaque ligne de code une opportunité d'innovation e
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Fire%2Fbases-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebases-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Frameworks & Technologies
 ![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -58,4 +58,3 @@ Audacieuse – je vois dans chaque ligne de code une opportunité d'innovation e
 
 ---
 
-## 🤝 Compétences Comportementales
