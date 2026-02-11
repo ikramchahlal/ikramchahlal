@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Ikram Chahlal
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif">
 
 ## 🎓 Élève-ingénieure en 4ème année | Génie Informatique, Option IA
 ### ENSAO - École Nationale des Sciences Appliquées d'Oujda
@@ -43,7 +43,6 @@ Audacieuse – je vois dans chaque ligne de code une opportunité d'innovation e
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![FireBase](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Technologies
 ![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -60,5 +59,4 @@ Audacieuse – je vois dans chaque ligne de code une opportunité d'innovation e
 
 ---
 
-
-
+## 🤝 Compétences Comportementales
