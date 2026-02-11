@@ -1,17 +1,15 @@
 # 👋 Bonjour, je suis Ikram Chahlal
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif">
 
 ## 🎓 Élève-ingénieure en 4ème année | Génie Informatique, Option IA
 ### ENSAO - École Nationale des Sciences Appliquées d'Oujda
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Audacieuse+et+passionn%C3%A9e+par+l'IA;Prête+à+%C3%A0+évoluer;Ouverte+à+%7C+Apprendre" 
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Audacieuse+et+passionnee+par+l'IA;Prete+a+evoluer;Ouverte+a+apprendre" 
         alt="Typing SVG" />
     </a>
 </p>
-
 ---
 
 ## 💫 À propos de moi
